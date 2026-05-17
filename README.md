@@ -159,30 +159,32 @@ Theme нь өөрийн default лого (SVG) ашигладаг. Хэрвээ 
 
 ##12 Үнэгүй ашиглаж болох theme - үүд
 WordPress.org дээрх албан ёсны, бүрэн үнэгүй, өргөн ашиглагддаг 20 theme-ийг сонгож өгье. Бүгд WP admin → Appearance → Themes → Add New дотроос нэрээр хайж шууд суулгаж болно.🎓 Боловсрол / Сургуульд тусгай зориулалттай
-Education Zone (Catch Themes) — сургууль, ангид зориулсан default бүтэцтэй
-Education Hub (Theme Palace) — багш, сурагч, ангиа танилцуулахад тохиромжтой
-Academy Lite (Theme Palace) — анги, курс, бүтээл харуулахад
-eLearning WP Lite (Inwave) — LMS-style, бүтээл/хичээл хэсэгтэй
-Tracks (Compete Themes) — minimalist боловсролын блог
-Educator Base (Webulous) — энгийн, цэвэрхэн школ theme
-⚡️ Олон зориулалттай, орчин үеийн (хамгийн өргөн ашиглагддаг)
-Astra — дэлхий дээрх хамгийн алдартай үнэгүй theme, маш хурдан, олон starter template
-OceanWP — бүх зүйл customize хийгддэг, demo importer-той
-GeneratePress — хөнгөн, цэвэрхэн, хурд эрхэмлэгчдийн сонголт
-Neve (Themeisle) — modern, AI starter sites-той
-Kadence — block editor-той сайн нийцдэг, starter templates-той
-Blocksy — modern defaults, demo нөөц их
-Sydney (aThemes) — corporate/portfolio хэв маяг
-Hestia — нэг page-style зориулалттай
-🧱 Block theme (Gutenberg / Full Site Editing)WordPress 6+ дээр админаас бүх дизайныг шууд засдаг шинэ үеийн theme-ууд:
-Twenty Twenty-Four — WordPress-ийн албан ёсны default, маш уян хатан
-Twenty Twenty-Three — энгийн, цэвэрхэн
-Ollie — modern, content-focused
-Frost — editorial хэв маяг
-Spectra One — Spectra plugin-тай хослон ажиллах сайн
-📸 Зураг/Портфолио харуулахад
-Inspiro Lite — том hero зураг, дүрс баяжуулсан хуудас (танай Graduation зурагтай таарна)
-🎯 Танд хамгийн тохиромжтой 3 сонголт10А ангийн танилцуулга сайтад зориулж дараах theme-уудыг онцлон зөвлөж байна:
-Astra — Hurdan, олон starter template дотроос "School" эсвэл "Class" хайж эхлэх боломжтой
-Kadence — Block editor дээр дрэг-дроп-оор хуудас засдаг, тань шиг WP туршлага бага байсан ч хялбар
-Neve — Starter sites дотроос "Education"-ийг сонгоход бараг бэлэн theme орж ирнэ
+
+   1. Education Zone (Catch Themes) — сургууль, ангид зориулсан default бүтэцтэй
+
+   2. Education Hub (Theme Palace) — багш, сурагч, ангиа танилцуулахад тохиромжтой
+   3. Academy Lite (Theme Palace) — анги, курс, бүтээл харуулахад
+   4. eLearning WP Lite (Inwave) — LMS-style, бүтээл/хичээл хэсэгтэй
+   5. Tracks (Compete Themes) — minimalist боловсролын блог
+   6. Educator Base (Webulous) — энгийн, цэвэрхэн школ theme
+   ⚡️ Олон зориулалттай, орчин үеийн (хамгийн өргөн ашиглагддаг)
+   7. Astra — дэлхий дээрх хамгийн алдартай үнэгүй theme, маш хурдан, олон starter template
+   8. OceanWP — бүх зүйл customize хийгддэг, demo importer-той
+   9. GeneratePress — хөнгөн, цэвэрхэн, хурд эрхэмлэгчдийн сонголт
+   10. Neve (Themeisle) — modern, AI starter sites-той
+   11. Kadence — block editor-той сайн нийцдэг, starter templates-той
+   12. Blocksy — modern defaults, demo нөөц их
+   13. Sydney (aThemes) — corporate/portfolio хэв маяг
+   14. Hestia — нэг page-style зориулалттай
+   🧱 Block theme (Gutenberg / Full Site Editing)WordPress 6+ дээр админаас бүх дизайныг шууд засдаг шинэ үеийн theme-ууд:
+   15. Twenty Twenty-Four — WordPress-ийн албан ёсны default, маш уян хатан
+   16. Twenty Twenty-Three — энгийн, цэвэрхэн
+   17. Ollie — modern, content-focused
+   18. Frost — editorial хэв маяг
+   19. Spectra One — Spectra plugin-тай хослон ажиллах сайн
+   📸 Зураг/Портфолио харуулахад
+   20. Inspiro Lite — том hero зураг, дүрс баяжуулсан хуудас (танай Graduation зурагтай таарна)
+   🎯 Танд хамгийн тохиромжтой 3 сонголт10А ангийн танилцуулга сайтад зориулж дараах theme-уудыг онцлон зөвлөж байна:
+   21. Astra — Hurdan, олон starter template дотроос "School" эсвэл "Class" хайж эхлэх боломжтой
+   22. Kadence — Block editor дээр дрэг-дроп-оор хуудас засдаг, тань шиг WP туршлага бага байсан ч хялбар
+   23. Neve — Starter sites дотроос "Education"-ийг сонгоход бараг бэлэн theme орж ирнэ
