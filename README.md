@@ -156,3 +156,33 @@ Theme нь өөрийн default лого (SVG) ашигладаг. Хэрвээ 
 ---
 
 Амжилт хүсье! Ямар нэг асуудал гарвал надад хандаж болно. 💛❤️💚💙
+
+##12 Үнэгүй ашиглаж болох theme - үүд
+WordPress.org дээрх албан ёсны, бүрэн үнэгүй, өргөн ашиглагддаг 20 theme-ийг сонгож өгье. Бүгд WP admin → Appearance → Themes → Add New дотроос нэрээр хайж шууд суулгаж болно.🎓 Боловсрол / Сургуульд тусгай зориулалттай
+Education Zone (Catch Themes) — сургууль, ангид зориулсан default бүтэцтэй
+Education Hub (Theme Palace) — багш, сурагч, ангиа танилцуулахад тохиромжтой
+Academy Lite (Theme Palace) — анги, курс, бүтээл харуулахад
+eLearning WP Lite (Inwave) — LMS-style, бүтээл/хичээл хэсэгтэй
+Tracks (Compete Themes) — minimalist боловсролын блог
+Educator Base (Webulous) — энгийн, цэвэрхэн школ theme
+⚡️ Олон зориулалттай, орчин үеийн (хамгийн өргөн ашиглагддаг)
+Astra — дэлхий дээрх хамгийн алдартай үнэгүй theme, маш хурдан, олон starter template
+OceanWP — бүх зүйл customize хийгддэг, demo importer-той
+GeneratePress — хөнгөн, цэвэрхэн, хурд эрхэмлэгчдийн сонголт
+Neve (Themeisle) — modern, AI starter sites-той
+Kadence — block editor-той сайн нийцдэг, starter templates-той
+Blocksy — modern defaults, demo нөөц их
+Sydney (aThemes) — corporate/portfolio хэв маяг
+Hestia — нэг page-style зориулалттай
+🧱 Block theme (Gutenberg / Full Site Editing)WordPress 6+ дээр админаас бүх дизайныг шууд засдаг шинэ үеийн theme-ууд:
+Twenty Twenty-Four — WordPress-ийн албан ёсны default, маш уян хатан
+Twenty Twenty-Three — энгийн, цэвэрхэн
+Ollie — modern, content-focused
+Frost — editorial хэв маяг
+Spectra One — Spectra plugin-тай хослон ажиллах сайн
+📸 Зураг/Портфолио харуулахад
+Inspiro Lite — том hero зураг, дүрс баяжуулсан хуудас (танай Graduation зурагтай таарна)
+🎯 Танд хамгийн тохиромжтой 3 сонголт10А ангийн танилцуулга сайтад зориулж дараах theme-уудыг онцлон зөвлөж байна:
+Astra — Hurdan, олон starter template дотроос "School" эсвэл "Class" хайж эхлэх боломжтой
+Kadence — Block editor дээр дрэг-дроп-оор хуудас засдаг, тань шиг WP туршлага бага байсан ч хялбар
+Neve — Starter sites дотроос "Education"-ийг сонгоход бараг бэлэн theme орж ирнэ
